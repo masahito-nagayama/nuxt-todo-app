@@ -18,3 +18,6 @@ $ yarn generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+
+
+storeの実装をする際に見返すと良い。
